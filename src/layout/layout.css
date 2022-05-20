@@ -1,0 +1,5 @@
+@import "../../node_modules/flexlayout-react/style/light.css";
+
+.flexlayout__layout{
+  width: 100vw;
+}
