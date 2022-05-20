@@ -5,7 +5,18 @@ var Layout_Model = {
     location: "right",
    
     children: [
-      
+      {
+        type: "tab", 
+       
+        name: "sidebar",
+        component: 'sidebar'
+      },
+      {
+        type: "tab", 
+       
+        name: "sidebar2",
+        component: 'sidebar'
+      }
     ]
  }
   ],
